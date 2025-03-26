@@ -8,5 +8,5 @@ export function ButtonText({ title, ...rest }) {
     >
         {title}
     </Container>
-    )
-}
+    );
+};
